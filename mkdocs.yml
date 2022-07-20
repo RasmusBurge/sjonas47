@@ -1,1 +1,4 @@
-site_name: My Docs
+site_name: Sjonas47
+site_url: http://RasmusBurge.github.io
+nav:
+    - home : index.md

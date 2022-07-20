@@ -1,4 +1,4 @@
 site_name: Sjonas47
 site_url: http://RasmusBurge.github.io
 nav:
-    - home : index.md
+    - home : "index.md"
